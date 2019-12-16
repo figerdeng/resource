@@ -51,3 +51,4 @@
           *	[菜鸟教程](https://www.runoob.com/python/python-func-repr.html)
           *	[廖雪峰](https://www.liaoxuefeng.com/wiki/1016959663602400)
           *	[《利用Python进行数据分析·第2版》](https://www.jianshu.com/p/04d180d90a3f)
+          *	[《利用Python进行数据分析·第2版 github版](https://links.jianshu.com/go?to=https%3A%2F%2Fgithub.com%2Fiamseancheney%2Fpython_for_data_analysis_2nd_chinese_version)
